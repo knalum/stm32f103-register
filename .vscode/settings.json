@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "go_drive.h": "c",
+        "uart_drive.h": "c"
+    }
+}
